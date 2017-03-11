@@ -30,7 +30,7 @@ Languages and frameworks are only part of the process - a small part. You also n
 
 1. **The docs are huge! How do you effectively read the documentation?**
 
-  This just takes time. Practice. I use the [Standard Library Index](Standard Library Index) as a reference. I also tend to look things up in StackOverflow even if I the solution to a problem. This helps me see how other people have handled it and exposes me to new methods and ways of thinking. Finally, reading other people's code really helped me. Again, seeing how other people solved similar problems is super valuable.
+  This just takes time. Practice. I use the [Standard Library Index](Standard Library Index) as a reference. I also tend to look things up in StackOverflow even if I know the solution to a problem. This helps me see how other people have handled it and exposes me to new methods and ways of thinking. Finally, reading other people's code really helped me. Again, seeing how other people solved similar problems is super valuable.
 
 1. **I am currently learning Python now for the 3rd time. In the past, I have started out strong with lots of passion, but soon get derailed/lose momentum/lose drive as I find myself hung up on tough problems and end up discouraged. How can I stop that from happening and keep forward progress? I don't want to end up stopping again.**
 
